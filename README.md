@@ -28,7 +28,7 @@ The primary objective of Near Journey(NJ) is to empower developers and bring web
 
 Near Journey is committed to becoming the go-to platform for NEAR developers worldwide, fostering innovation and expanding the NEAR ecosystem.
 
-## **Tech stack:**
+## **TechStack**
 Programming Languages:
 - TypeScript
 - Rust
@@ -55,10 +55,11 @@ IDE:
 Real-Time Collab:
 - liveblocks
 
-## **To run the project locally:**
+## **To run the project locally**
 1. Setup env for liveblocks and Codemirror
 2. node install
 3. npm install
 4. npm run dev
 
-## **Tech Architecture:**
+## **Tech Architecture**
+![captures_chrome-capture-2024-0-30](https://github.com/AmaanSayyad/NJ/assets/69464744/db31480f-02e6-449b-b5d5-df6a476e3b44)
