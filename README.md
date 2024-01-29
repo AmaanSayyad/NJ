@@ -54,3 +54,9 @@ IDE:
 
 Real-Time Collab:
 - liveblocks
+
+To run the project locally:
+1. Setup env for liveblocks and Codemirror
+2. node install
+3. npm install
+4. npm run dev
